@@ -1,0 +1,19 @@
+img {
+    height: 150px;
+    width: 150px;
+}
+
+button {
+    display: block;
+    background-color: dodgerblue;
+    border: none;
+    padding: 2%;
+    margin-left: 45%;
+}
+
+table {
+    border: solid black 1px;
+    margin-left: 30%;
+    margin-top: 10%;
+    margin-right: 40%;
+}
